@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -Werror -Wextra   CMakeFiles/TermPG.dir/main.cpp.o  -o TermPG  tpg/libtpg.a tpg/framebuffer/libframebuffer.a 

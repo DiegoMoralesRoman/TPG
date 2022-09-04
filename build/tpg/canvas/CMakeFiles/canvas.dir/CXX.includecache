@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/Programming/C++/TermPG/tpg/canvas/canvas.cpp
+canvas.hpp
+/home/diego/Programming/C++/TermPG/tpg/canvas/canvas.hpp
+sys/ioctl.h
+-
+stdio.h
+-
+
+/home/diego/Programming/C++/TermPG/tpg/canvas/canvas.hpp
+color.hpp
+/home/diego/Programming/C++/TermPG/tpg/canvas/color.hpp
+vector
+-
+
+/home/diego/Programming/C++/TermPG/tpg/canvas/color.hpp
+stdint.h
+-
+

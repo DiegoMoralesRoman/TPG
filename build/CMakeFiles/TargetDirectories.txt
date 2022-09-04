@@ -1,0 +1,9 @@
+/home/diego/Programming/C++/TermPG/build/CMakeFiles/rebuild_cache.dir
+/home/diego/Programming/C++/TermPG/build/CMakeFiles/edit_cache.dir
+/home/diego/Programming/C++/TermPG/build/CMakeFiles/TermPG.dir
+/home/diego/Programming/C++/TermPG/build/tpg/CMakeFiles/rebuild_cache.dir
+/home/diego/Programming/C++/TermPG/build/tpg/CMakeFiles/edit_cache.dir
+/home/diego/Programming/C++/TermPG/build/tpg/CMakeFiles/tpg.dir
+/home/diego/Programming/C++/TermPG/build/tpg/framebuffer/CMakeFiles/rebuild_cache.dir
+/home/diego/Programming/C++/TermPG/build/tpg/framebuffer/CMakeFiles/edit_cache.dir
+/home/diego/Programming/C++/TermPG/build/tpg/framebuffer/CMakeFiles/framebuffer.dir

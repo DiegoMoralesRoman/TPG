@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/Programming/C++/TermPG/main.cpp
+iostream
+-
+tpg/tpg.hpp
+/home/diego/Programming/C++/TermPG/tpg/tpg.hpp
+
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/color.hpp
+stdint.h
+-
+
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/framebuffer.hpp
+color.hpp
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/color.hpp
+utils.hpp
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/utils.hpp
+vector
+-
+
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/utils.hpp
+
+/home/diego/Programming/C++/TermPG/tpg/tpg.hpp
+framebuffer/color.hpp
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/color.hpp
+framebuffer/framebuffer.hpp
+/home/diego/Programming/C++/TermPG/tpg/framebuffer/framebuffer.hpp
+
