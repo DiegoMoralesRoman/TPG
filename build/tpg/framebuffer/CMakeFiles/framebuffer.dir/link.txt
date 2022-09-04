@@ -1,2 +1,0 @@
-/usr/bin/ar qc libframebuffer.a  CMakeFiles/framebuffer.dir/framebuffer.cpp.o CMakeFiles/framebuffer.dir/color.cpp.o CMakeFiles/framebuffer.dir/utils.cpp.o
-/usr/bin/ranlib libframebuffer.a

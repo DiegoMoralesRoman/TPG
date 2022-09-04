@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtpg.a  
-/usr/bin/ranlib libtpg.a
